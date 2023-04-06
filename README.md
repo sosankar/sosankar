@@ -5,7 +5,6 @@
 - 💬 Ask me about cognitive science (or the NBA)!
 - 📫 How to reach me: sosankar@ucsc.edu
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I was president of our high school juggling club
 <!--
 **sosankar/sosankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

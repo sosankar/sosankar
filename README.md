@@ -1,10 +1,11 @@
 ### Hi there 👋
-- 🔭 I’m currently working on computational neuroscience research
-- 🌱 I’m currently learning VR development
+- 🔭 I’m currently working on computational neuroscience research in Samaha Lab
+- 🌱 I’m currently learning VR development at SET Lab
+- 🌱 I’m currently learning about assistive tech research at Misfit Lab
 - 💬 Ask me about cognitive science (or the NBA)!
 - 📫 How to reach me: sosankar@ucsc.edu
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I was juggling club president in high school
+- ⚡ Fun fact: I was president of our high school juggling club
 <!--
 **sosankar/sosankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on computational neuroscience research in Samaha Lab
+- 🧠 I’m currently working on computational neuroscience research in Samaha Lab
 - 🌱 I’m currently learning VR development at SET Lab
 - 🌱 I’m currently learning about assistive tech research at Misfit Lab
 - 💬 Ask me about cognitive science!

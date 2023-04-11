@@ -1,8 +1,7 @@
 ### Hi there 👋
-- 🧠 I’m currently working on computational neuroscience research at the Samaha Lab
-- 🥽 I’m currently learning VR development at the SET Lab
-- 🤝 I’m currently learning about assistive tech research at the Misfit Lab
-- 💬 Ask me about cognitive science!
+- 🧠 Computational neuroscience research at the Samaha Lab
+- 🥽 VR development at the SET Lab
+- 🤝 Assistive tech design at the Misfit Lab
 - 📫 How to reach me: sosankar@ucsc.edu
 - 😄 Pronouns: he/him
 <!--

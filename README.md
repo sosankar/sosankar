@@ -1,7 +1,8 @@
 ### Hi there 👋
 - 🧠 Computational neuroscience research at the Samaha Lab
 - 🥽 VR development at the SET Lab
-- 🤝 Assistive tech design at the Misfit Lab
+- 🤝 Disability research at the Misfit Lab
+- 🫡 Assistive tech development at the ASSIST Lab
 - 📫 How to reach me: sosankar@ucsc.edu
 - 😄 Pronouns: he/him
 <!--

@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello, I'm Soorya, an undergraduate neuroscience and data science researcher. Currently, I'm involved in VR and human-computer interaction research at Stanford's Virtual Human Interaction Lab.
+Hello, I'm Soorya, an undergraduate neuroscience and data science researcher. Most recently, I was a researcher and developer in Stanford's Virtual Human Interaction Lab, working on VR and human-computer interaction research.
 
 Previously, I've contributed to various labs at Stanford and UC Santa Cruz:
 Engineering Labs: Social Emotional Technology (SET) Lab, Misfit Lab, Assistive Sociotechnical Solutions for Individuals with Special Needs using Technology (ASSIST) Lab.

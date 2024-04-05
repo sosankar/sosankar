@@ -1,5 +1,5 @@
 # Soorya Sankaran
-- 🧠 **Neuroscience**: [Braingeneers](https://spanlab.stanford.edu/), [Samaha](https://samahalab.ucsc.edu/), [SPAN](https://spanlab.stanford.edu/)
+- 🧠 **Neuroscience**: [Braingeneers](https://braingeneers.ucsc.edu/), [Samaha](https://samahalab.ucsc.edu/), [SPAN](https://spanlab.stanford.edu/)
 - 🤖 **Engineering**: [DANSER](https://spanlab.stanford.edu/), [Virtual Human Interaction](https://samahalab.ucsc.edu/)
 - 👨‍💻 **Human-Computer Interaction**: [SET](https://setlab.soe.ucsc.edu/about/), [Misfit](https://www.misfit-lab.com/), [ASSIST](https://assist.engineering.ucsc.edu/)
 
